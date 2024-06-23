@@ -42,11 +42,15 @@
 }
 
 @media only screen and (max-width: 1200px) {
+    .search-container {
+        margin-top: 10%;
+    }
     .search,
     .search-filter {
         width: 90%;
     }
     .search-filter {
         justify-content: center;
+        margin: 10px 0 0 0;
     }
 }
