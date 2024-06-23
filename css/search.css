@@ -48,7 +48,7 @@
     .search,
     .search-filter {
         width: 100%;
-        margin: 0 15px;
+        margin: 15px 0;
     }
     .search-filter {
         justify-content: center;
