@@ -28,3 +28,9 @@
         transform: translate(0, -10px);
     }
 }
+
+@media only screen and (max-width: 1200px) {
+    .about {
+        margin-bottom: 5px;
+    }
+}

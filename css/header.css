@@ -2,7 +2,6 @@ header {
     width: 100%;
     height: auto;
     color: white;
-    padding: 15px 30px;
     display: flex;
     align-items: center;
 }
@@ -70,9 +69,6 @@ header .register {
     .btn.icon,
     .register.icon {
         display: inline;
-    }
-    header {
-        padding: 15px;
     }
     header i {
         font-size: 14px;
