@@ -70,10 +70,7 @@ header .register {
     .register.icon {
         display: inline;
     }
-    header i {
-        font-size: 14px;
-    }
     header .logo {
-        font-size: 28px;
+        font-size: 32px;
     }
 }
