@@ -1,6 +1,8 @@
 .about-container {
     display: flex;
-    justify-content: center;
+    flex-direction: column;
+    flex-grow: 1;
+    justify-content: flex-end;
     align-items: center;
 }
 
